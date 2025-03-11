@@ -1,0 +1,13 @@
+ ! NOAA/PMEL TMAP
+ ! PyFerret v7.63 (optimized)
+ ! Darwin 19.6.0 - 12/10/21
+ ! 20-Jun-24 13:24     
+
+set mode verify
+
+use year-RU-MAR_ERA5-1979-2022.nc
+use MARgrid-35km.nc
+
+sha/lev="(10)(20)(50)(100)(200)(500)(1000)(1500)"/palette=cmocean_amp/nolab RU[l=35:44@AVE,k=1,d=1]
+contour/over/size=0.00001/lev="(0.5),(150)"/nolab AIS*100+MASKGROUND
+

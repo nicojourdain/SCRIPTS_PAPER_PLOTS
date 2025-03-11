@@ -1,6 +1,6 @@
 # Jourdain et al. (2022)
 
-Submitted to GRL.
+Jourdain, N. C., Mathiot, P., Burgard, C., Caillet, J., Kittel, C. (2022). Ice shelf basal melt rates in the Amundsen Sea at the end of the 21st century. _Geophysical Research Letter_, 49(22), e2022GL100629, [doi:10.1029/2022GL100629](https://doi.org/10.1029/2022GL100629)
 
 * **Figure 1:**
    - map\_tauU\_anomaly.pdf from plot\_map\_tau\_U\_anomalies.py
