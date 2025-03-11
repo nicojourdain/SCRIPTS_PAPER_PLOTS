@@ -1,6 +1,6 @@
 # Jourdain et al. (2025)
 
-* Jourdain, N. C., Amory, C., Kittel, C. and Durand, G. (2024). Changes in Antarctic surface conditions and potential for ice shelf hydrofracturing from 1850 to 2200. _The Cryosphere, accepted_. [preprint]: [doi:10.5194/egusphere-2024-58](https://doi.org/10.5194/egusphere-2024-58)
+Jourdain, N. C., Amory, C., Kittel, C. and Durand, G. (2024). Changes in Antarctic surface conditions and potential for ice shelf hydrofracturing from 1850 to 2200. _The Cryosphere, accepted_. [preprint]: [doi:10.5194/egusphere-2024-58](https://doi.org/10.5194/egusphere-2024-58)
 
 * **Figure 1:**
    - created using Microsoft PowerPoint
@@ -61,7 +61,7 @@
    - extrapolate\_SMB\_ROF\_new.py
  
 * **Figure D1:**
-   - plot\map\eval\1980\to\2200.py
+   - plot\_map\_eval\_1980\_to\_2200.py
 
 * **Figure D2:**
    - plot\_map\_eval\_ssp585\_to\_sspxxx\_3\_models\_avg.py
